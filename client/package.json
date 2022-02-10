@@ -21,7 +21,7 @@
     "jspdf": "^1.4.1",
     "moment": "2.24.0",
     "newsapi": "^2.4.0",
-    "node-sass": "^4.13.0",
+    "node-sass": "^7.0.0",
     "react": "16.11.0",
     "react-animated-button": "^0.2.6",
     "react-animated-buttons": "^1.0.4",
